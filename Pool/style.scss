@@ -12,14 +12,14 @@
     min-height: 700px;
     background-image: url('./images/Polygon.png');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;    
 }
     .header_contacts {
         min-width: 600px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-    
+    }
     .h-top {
         display: flex;
         flex-direction: row;
@@ -30,4 +30,3 @@
         border-bottom: 1px solid rgba(244,244,249,0.5);
        
     }
-}    

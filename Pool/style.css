@@ -30,7 +30,7 @@
           justify-content: space-between;
 }
 
-.header_contacts .h-top {
+.h-top {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
