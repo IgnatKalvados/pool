@@ -16,7 +16,7 @@
   background-repeat: no-repeat;
 }
 
-.header_contacts {
+.mainhead .header_contacts {
   min-width: 600px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -30,7 +30,7 @@
           justify-content: space-between;
 }
 
-.h-top {
+.mainhead .header_contacts .h-top {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
